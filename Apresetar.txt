@@ -1,0 +1,8 @@
+--->Site para apresentar a historia e o cardapio da pizzaria atlantico 
+para fins didaticos e mencionei no site que nao era oficial
+
+--->html,css, javascript e php e mysql(para poder atuar em servidor) e um template bootstrap 
+
+--->o codigo original foi html porem transformei o arquivo em php pelo codigo
+
+--->conectei o site ao infinityfree com o host pizzaatlantico.ga
